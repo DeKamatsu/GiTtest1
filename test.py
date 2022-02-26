@@ -1,4 +1,4 @@
-# 1-s file for GiT-testing (main)
+# 2-ed file for GiT-testing
 print('Hello world!')
 
-print("\nHello everyone for the second time!")
+print("\nThis message could be added in 2-nd branch only first")
